@@ -1,44 +1,16 @@
-div>h1{
-  color: #9b59b6
+.box {
+  border:50px solid red;
+  padding:50px;
+  width:200px;
+  margin-bottom:20px;
 }
 
-div>p{
-  font-size: 16px;
-  font
+.green {
+  border-color:green;
+  /* display: none; */
+  /* visibility: hidden; */
 }
 
-p::first-letter {
-  font-size: 200%;
-  color: dodgerblue;
-}
-
-p{
-  color: black;
-}
-
-h1::before {
-  content: "Topic:";
-}
-
-
-div{
-  background-color: #fff;
-background-image:
-linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
-linear-gradient(#eee .1em, transparent .1em);
-background-size: 100% 1.2em;
-}
-
-
-div{
-	margin-left: 30px; /* 1 */
-	text-indent: -30px; /* 2 */
-}
-
-div{
-  font: italic 16px airal ,"Verdana"
-}
-
-.text-blue{
-  color: dodgerblue;
+.blue {
+  border-color:blue;
 }
