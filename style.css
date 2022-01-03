@@ -1,6 +1,10 @@
 div p{
   color:red;
-}//p.new-style p태그에 있는 class가 .new-style인 태그만 선택
+}//1.class를 이용한 스타일 주기
+//2.id를 이용
+//3.직접적으로 스타일 주기 
+//4.복합 선택자
+//p.new-style p태그에 있는 class가 .new-style인 태그만 선택
 //div .new-style div태그 아래에 있는 모든 자손들 중 스타일이 .new-style을 가진 태그만 선택하는 것
 //span>.new-style 태그 바로 밑에 자식중에서 .new-style을 가진 태그를 선택 .new-style
 
