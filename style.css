@@ -1,32 +1,44 @@
-.box1{
-  border: 30px solid blue;
+div>h1{
+  color: #9b59b6
 }
 
-.box2{
-  border: 30px solid red;
+div>p{
+  font-size: 16px;
+  font
 }
 
-.box3{
-  border: 30px solid green;
+p::first-letter {
+  font-size: 200%;
+  color: dodgerblue;
 }
 
-.img-size{
-  width: 200px;
-  height: 50px;
-} //넓이 높이
-
-.margin-space{
-  margin-top: 20px;
+p{
+  color: black;
 }
 
-.padding-space{
-  padding-top: 50px;
+h1::before {
+  content: "Topic:";
 }
 
-.text{
-  text-align: center;
+
+div{
+  background-color: #fff;
+background-image:
+linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+linear-gradient(#eee .1em, transparent .1em);
+background-size: 100% 1.2em;
 }
 
-.visible {
-  visibility: hidden;
+
+div{
+	margin-left: 30px; /* 1 */
+	text-indent: -30px; /* 2 */
+}
+
+div{
+  font: italic 16px airal ,"Verdana"
+}
+
+.text-blue{
+  color: dodgerblue;
 }
