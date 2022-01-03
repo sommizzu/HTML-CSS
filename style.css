@@ -2,3 +2,7 @@
   color: red;
   background-color: yellow;
 }
+
+.border-blue{
+  border: 1px solid blue;
+}
