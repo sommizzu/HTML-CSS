@@ -13,13 +13,14 @@
   height: 200px;
 } //넓이 높이
 
-.margin-space{
-  margin-top: 40px;
-  margin-left: 100px;
-  margin-bottom: 40px;
-}
 
 .padding-space{
   padding-top: 40px;
   padding-left: 50px;
+}
+
+.margin-space{
+  margin-top: 40px;
+  margin-left: 100px;
+  margin-bottom: 40px;
 }
