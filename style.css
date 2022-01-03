@@ -1,26 +1,32 @@
-.red{
-  color: red;
-  background-color: yellow;
-  text-align: center;
+.box1{
+  border: 30px solid blue;
 }
 
-.border-blue{
-  border: 1px solid blue;
+.box2{
+  border: 30px solid red;
+}
+
+.box3{
+  border: 30px solid green;
 }
 
 .img-size{
   width: 200px;
-  height: 200px;
+  height: 50px;
 } //넓이 높이
 
-
-.padding-space{
-  padding-top: 40px;
-  padding-left: 50px;
+.margin-space{
+  margin-top: 20px;
 }
 
-.margin-space{
-  margin-top: 40px;
-  margin-left: 100px;
-  margin-bottom: 40px;
+.padding-space{
+  padding-top: 50px;
+}
+
+.text{
+  text-align: center;
+}
+
+.visible {
+  visibility: hidden;
 }
